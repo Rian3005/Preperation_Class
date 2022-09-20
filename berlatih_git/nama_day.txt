@@ -1,0 +1,3 @@
+nama: Rian
+stack: fullstack
+branch:main
